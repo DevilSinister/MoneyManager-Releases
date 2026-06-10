@@ -3,10 +3,10 @@
     <channel>
         <title>RiskPilot Updates</title>
         <item>
-            <title>Version 1.1.13</title>
-            <sparkle:version>1.1.13</sparkle:version>
+            <title>Version 1.1.14</title>
+            <sparkle:version>1.1.14</sparkle:version>
             <sparkle:os>android</sparkle:os>
-            <enclosure url="https://github.com/DevilSinister/MoneyManager-Releases/releases/download/v1.1.13/app-release.apk" sparkle:version="1.1.13" sparkle:os="android" sparkle:sha256="14a66b7269db8fe37294b23221b3aaabb1e6eacf324730b615b96266e86ad6b0" />
+            <enclosure url="https://github.com/DevilSinister/MoneyManager-Releases/releases/download/v1.1.14/app-release.apk" sparkle:version="1.1.14" sparkle:os="android" sparkle:sha256="6b36b30d858e3a923c31d13eb78133bf5166ada3b4fa2f0338c789b508ecd650" />
         </item>
     </channel>
 </rss>
