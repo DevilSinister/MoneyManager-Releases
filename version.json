@@ -1,9 +1,9 @@
 {
-  "version": "1.1.12",
-  "build_number": 23,
-  "download_url": "https://github.com/DevilSinister/MoneyManager-Releases/releases/download/v1.1.12/app-release.apk",
-  "release_notes": "fix: stabilize redesigned screen tests",
+  "version": "1.1.13",
+  "build_number": 24,
+  "download_url": "https://github.com/DevilSinister/MoneyManager-Releases/releases/download/v1.1.13/app-release.apk",
+  "release_notes": "fix: harden direct apk updates",
   "force_update": false,
-  "min_supported_build": 23,
-  "sha256": "3965890f0280c182f8201d8c38fea13d31f406c8d7deb632f83fac240ea35a7b"
+  "min_supported_build": 0,
+  "sha256": "14a66b7269db8fe37294b23221b3aaabb1e6eacf324730b615b96266e86ad6b0"
 }
